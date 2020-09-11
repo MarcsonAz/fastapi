@@ -31,11 +31,6 @@ decorator==4.4.0
 defusedxml==0.6.0
 demjson==2.2.4
 distlib==0.3.0
-Django==3.0.4
-django-allauth==0.42.0
-django-filter==2.2.0
-django-pandas==0.6.1
-djangorestframework==3.10.3
 docx==0.2.4
 fastapi==0.61.0
 filelock==3.0.12
@@ -74,7 +69,6 @@ pandas==0.25.2
 pefile==2019.4.18
 Pillow==6.0.0
 pipenv==2020.6.2
-plotly==3.8.1
 protobuf==3.12.2
 psutil==5.6.1
 psycopg2==2.8.4

@@ -6,3 +6,4 @@ Inseri alguns dados sobre o corona virus, para montar um site com estes dados
 o Site vai ser o projeto do NEXT.JS qu esta aqui no github.
 
 ### na api tem um link da documentacao feita no swagger
+Teste a [API](https://fastapitreino.herokuapp.com/) !!!

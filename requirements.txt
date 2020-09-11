@@ -4,6 +4,8 @@ asgi-redis==1.4.3
 asgiref==3.2.3
 asn1crypto==0.24.0
 astroid==2.3.3
+async-exit-stack==1.0.1
+async-generator==1.10
 asyncpg==0.21.0
 attrs==19.1.0
 autobahn==19.11.1
